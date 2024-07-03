@@ -1,0 +1,13 @@
+.grid-contianer {
+    height: 16px;
+    width: 16px;
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid-item {
+    height: 16px;
+    width: 16px;
+    background-color: red;
+}
